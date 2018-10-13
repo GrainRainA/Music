@@ -22,7 +22,9 @@ android {
         main {
             res.srcDirs(
                     'src/main/res'
-                    , '/src/main/res/layouts/welcome')
+                    , '/src/main/res/layouts/welcome'
+                    , '/src/main/res/layouts/find'
+                    , '/src/main/res/layouts/test')
         }
     }
 }
